@@ -1,2 +1,2 @@
-# pineapplepizza
+<del> ># pineapplepizza </del
 This repo describes WHY YOU MUST AVOID THIS HEINOUS AND AWFUL CONCOCTION...
