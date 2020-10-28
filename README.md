@@ -1,5 +1,17 @@
-<del> ># pineapplepizza </del>
   
-This repo describes WHY YOU MUST AVOID THIS HEINOUS AND AWFUL CONCOCTION...
+# pineapplepizza
+This repo describes the spec for vegan pineapple on pizza
 
-![Image of Pizza Lover](/hawaiian-pizza-is-gross-2-14869-1475707380-5_dblbig.jpg)
+---
+apiVersion: pineapplepizza/v1
+kind: pizza
+metadata:
+  name: Hawaiian Pizza
+  labels:
+    ingredients: tofu bacon
+    ingredients: ethically sourced pineapple
+    ingredients: cashew cheese
+    ingredients: green peppers
+    ingredients: gluten free crust
+    
+spec:
